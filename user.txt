@@ -1,0 +1,5 @@
+#<User:0x0000000102fd0388 @first_name="a\n", @last_name="a\n", @email="a\n", @password="a\n">
+#<User:0x000000010b373848 @first_name="a\n", @last_name="s\n", @email="as\n", @password="asd\n">
+#<User:0x0000000107c5f848 @first_name="b\n", @last_name="b\n", @email="b\n", @password="b\n">
+#<User:0x000000010943a210 @first_name="ali\n", @last_name="raza\n", @user_role="qwe\n", @password="asdas\n", @email="asda\n">
+#<User:0x000000010b682728 @first_name="ali\n", @last_name="raza\n", @user_role="teacher\n", @password="asd\n", @email="ads\n">
